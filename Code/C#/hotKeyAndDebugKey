@@ -1,0 +1,28 @@
+F12: Go To Defination (đi đến định nghĩa)
+Ctrl + F12: Go To Implementation (đi đến triển khai)
+Ctrl + -: Navigate Backward (điều hướng lùi)
+F5: debug/continue
+Ctrl + F5: Start without debugging (chạy nhanh hơn)
+Ctrl + Alt + P: Open Attact to Process (để chuyển iis sang chế độ debug)
+Shift + Alt + P: Reattach to Process
+Ctrl + Alt + W (1, 2, 3, 4): Open Watch (1, 2, 3, 4)
+Ctrl + Alt + I: Open Immediate
+Ctrl + Alt + B: Open Breakpoints
+Ctrk + Alt + C: Open Call Stack
+F10: Step over
+F11: Step into
+Ctrl + F11: Step out
+F9: toggle breakpoint
+Shift + F9: Open Quick Watch (để thêm biến vào cửa sổ watch)
+Kéo mũi tên vàng vàng khi debug thì sẽ nhảy tới dòng được thả xuống
+F9 + F5 + F9: chạy bỏ qua vòng for, đến dòng mong muốn
+= Ctrl + F10: Run to Cursor
+Shift + Alt + > or <: Giống Ctrl + D trong vscode
+Shift + Alt + ;: Giống Ctrl + Shift + L trong vscode
+Ctrl + R, R: Đổi tên tất cả các biến và file
+Ctrl + K, S: Surround with
+Ctrl + M, O: Collapse code
+Ctrl + M, P: Open collapse code
+Ctrl + K, C: Comment
+Ctrl + K, U: Uncomment
+Ctrl + K, D: Format code (edited) 
